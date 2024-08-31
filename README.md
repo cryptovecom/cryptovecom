@@ -11,7 +11,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20and%20%20Front-end%20Developer;Web3%20and%20NFT,%20Back-end%20Developer;Full-stack%20Blockchain%20Developer&font=Abril+Fatface&width=800&height=90&color=58a6ff&vCenter=true&size=45&duration=4000&pause=1500">
 
-### :smile: My aim is to make a meaningful impact on the world through the application of my skills.
+### :smile: My goal is to apply my skills to make a meaningful impact on the world.
 ### :smile: Blockchain Development is a part of my life and :book: Keep coding forever.
 ### :smile: Successful track record of developing.
 --------
