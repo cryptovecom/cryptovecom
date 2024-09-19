@@ -20,7 +20,7 @@
 
 <br>
 
-## 💫 My🌟BEST🌟 SKILLS
+## :smile: My BEST SKILLS
 
 <p align="center">
     <table>
