@@ -33,7 +33,7 @@
             <td><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="expressjs-github-profile-awesome-beautiful" width="100"/></td>
             <td><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs-github-profile-awesome-beautiful" width="100"/></td>
             <td><img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="nextjs-github-profile-awesome-beautiful" width="100"/></td>
-            <td><img src="https://www.theconsolelogs.com/react/redux.svg" alt="redux-github-profile-awesome-beautiful" width="100"/></td>
+<!--             <td><img src="https://www.theconsolelogs.com/react/redux.svg" alt="redux-github-profile-awesome-beautiful" width="100"/></td> -->
             <td><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql-github-profile-awesome-beautiful" width="100"/></td>
             <td><img src="https://www.vectorlogo.zone/logos/apollographql/apollographql-icon.svg" alt="apollographql-github-profile-awesome-beautiful" width="100"/></td>
             <td><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python-github-profile-awesome-beautiful" width="100"/></td>
